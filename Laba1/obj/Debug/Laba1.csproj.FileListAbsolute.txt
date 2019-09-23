@@ -1,7 +1,0 @@
-C:\Бауманка\Интернет технологии\Lab_C#\Laba1\Laba1\bin\Debug\Laba1.exe.config
-C:\Бауманка\Интернет технологии\Lab_C#\Laba1\Laba1\bin\Debug\Laba1.exe
-C:\Бауманка\Интернет технологии\Lab_C#\Laba1\Laba1\bin\Debug\Laba1.pdb
-C:\Бауманка\Интернет технологии\Lab_C#\Laba1\Laba1\obj\Debug\Laba1.csprojAssemblyReference.cache
-C:\Бауманка\Интернет технологии\Lab_C#\Laba1\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
-C:\Бауманка\Интернет технологии\Lab_C#\Laba1\Laba1\obj\Debug\Laba1.exe
-C:\Бауманка\Интернет технологии\Lab_C#\Laba1\Laba1\obj\Debug\Laba1.pdb

@@ -1,0 +1,10 @@
+C:\Бауманка\Интернет технологии\Lab_C#\Laba2\Laba2\Laba2\bin\Debug\netcoreapp2.1\Laba2.deps.json
+C:\Бауманка\Интернет технологии\Lab_C#\Laba2\Laba2\Laba2\bin\Debug\netcoreapp2.1\Laba2.runtimeconfig.json
+C:\Бауманка\Интернет технологии\Lab_C#\Laba2\Laba2\Laba2\bin\Debug\netcoreapp2.1\Laba2.runtimeconfig.dev.json
+C:\Бауманка\Интернет технологии\Lab_C#\Laba2\Laba2\Laba2\bin\Debug\netcoreapp2.1\Laba2.dll
+C:\Бауманка\Интернет технологии\Lab_C#\Laba2\Laba2\Laba2\bin\Debug\netcoreapp2.1\Laba2.pdb
+C:\Бауманка\Интернет технологии\Lab_C#\Laba2\Laba2\Laba2\obj\Debug\netcoreapp2.1\Laba2.csprojAssemblyReference.cache
+C:\Бауманка\Интернет технологии\Lab_C#\Laba2\Laba2\Laba2\obj\Debug\netcoreapp2.1\Laba2.AssemblyInfoInputs.cache
+C:\Бауманка\Интернет технологии\Lab_C#\Laba2\Laba2\Laba2\obj\Debug\netcoreapp2.1\Laba2.AssemblyInfo.cs
+C:\Бауманка\Интернет технологии\Lab_C#\Laba2\Laba2\Laba2\obj\Debug\netcoreapp2.1\Laba2.dll
+C:\Бауманка\Интернет технологии\Lab_C#\Laba2\Laba2\Laba2\obj\Debug\netcoreapp2.1\Laba2.pdb

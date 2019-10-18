@@ -108,13 +108,46 @@ namespace lab01
             a = Convert.ToDouble(a_str);
             b = Convert.ToDouble(b_str);
             c = Convert.ToDouble(c_str);
+            if ((a == b) && (b == c) && (a == 0))
+            {
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("Бесконечное количество корней");
+            Console.ResetColor();
+                Environment.Exit(0);
+            }
             if ((a == 0) && (b == 0))
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Корней нет");
                 Console.ResetColor();
-                Console.Read();
                 Environment.Exit(0);
+            }
+            if (a == 0)
+            {
+                double temp = -c / b;
+                if (temp < 0)
+                {
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("Корней нет");
+                    Console.ResetColor();
+                    Environment.Exit(0);
+                }
+                if (temp == 0)
+                {
+                    string s = "x1" + " = " + Convert.ToString(temp);
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    Console.WriteLine(s);
+                    Console.ResetColor();
+                    Environment.Exit(0);
+                }
+                double x1 = Math.Sqrt(temp), x2 = -Math.Sqrt(temp);
+                string s1 = "x1" + " = " + Convert.ToString(x1);
+                string s2 = "x2" + " = " + Convert.ToString(x2);
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine(s1);
+                Console.WriteLine(s2);
+                Console.ResetColor();
+
             }
             D = Math.Pow(b, 2) - 4 * a * c;
             if (D < 0)
@@ -122,7 +155,6 @@ namespace lab01
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Корней нет");
                 Console.ResetColor();
-                Console.Read();
                 Environment.Exit(0);
             }
             double y1, y2;
@@ -152,7 +184,6 @@ namespace lab01
                 Console.WriteLine(s);
                 Console.ResetColor();
             }
-            Console.Read();
 
             return 0;
         }

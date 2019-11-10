@@ -1,0 +1,10 @@
+D:\Lab_C\lab02\bin\Debug\netcoreapp3.0\lab02.exe
+D:\Lab_C\lab02\bin\Debug\netcoreapp3.0\lab02.deps.json
+D:\Lab_C\lab02\bin\Debug\netcoreapp3.0\lab02.runtimeconfig.json
+D:\Lab_C\lab02\bin\Debug\netcoreapp3.0\lab02.runtimeconfig.dev.json
+D:\Lab_C\lab02\bin\Debug\netcoreapp3.0\lab02.dll
+D:\Lab_C\lab02\bin\Debug\netcoreapp3.0\lab02.pdb
+D:\Lab_C\lab02\obj\Debug\netcoreapp3.0\lab02.AssemblyInfoInputs.cache
+D:\Lab_C\lab02\obj\Debug\netcoreapp3.0\lab02.AssemblyInfo.cs
+D:\Lab_C\lab02\obj\Debug\netcoreapp3.0\lab02.dll
+D:\Lab_C\lab02\obj\Debug\netcoreapp3.0\lab02.pdb

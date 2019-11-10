@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yv\\source\\repos\\lab01\\lab01.csproj": {}
+    "D:\\Lab_C\\lab01\\lab01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yv\\source\\repos\\lab01\\lab01.csproj": {
+    "D:\\Lab_C\\lab01\\lab01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yv\\source\\repos\\lab01\\lab01.csproj",
+        "projectUniqueName": "D:\\Lab_C\\lab01\\lab01.csproj",
         "projectName": "lab01",
-        "projectPath": "C:\\Users\\yv\\source\\repos\\lab01\\lab01.csproj",
-        "packagesPath": "C:\\Users\\yv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yv\\source\\repos\\lab01\\obj\\",
+        "projectPath": "D:\\Lab_C\\lab01\\lab01.csproj",
+        "packagesPath": "C:\\Users\\mumeu\\.nuget\\packages\\",
+        "outputPath": "D:\\Lab_C\\lab01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\yv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mumeu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

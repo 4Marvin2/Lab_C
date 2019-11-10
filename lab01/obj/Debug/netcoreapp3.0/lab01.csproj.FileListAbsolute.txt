@@ -9,3 +9,14 @@ C:\Users\yv\source\repos\lab01\obj\Debug\netcoreapp3.0\lab01.AssemblyInfoInputs.
 C:\Users\yv\source\repos\lab01\obj\Debug\netcoreapp3.0\lab01.AssemblyInfo.cs
 C:\Users\yv\source\repos\lab01\obj\Debug\netcoreapp3.0\lab01.dll
 C:\Users\yv\source\repos\lab01\obj\Debug\netcoreapp3.0\lab01.pdb
+D:\Lab_C\lab01\bin\Debug\netcoreapp3.0\lab01.exe
+D:\Lab_C\lab01\bin\Debug\netcoreapp3.0\lab01.deps.json
+D:\Lab_C\lab01\bin\Debug\netcoreapp3.0\lab01.runtimeconfig.json
+D:\Lab_C\lab01\bin\Debug\netcoreapp3.0\lab01.runtimeconfig.dev.json
+D:\Lab_C\lab01\bin\Debug\netcoreapp3.0\lab01.dll
+D:\Lab_C\lab01\bin\Debug\netcoreapp3.0\lab01.pdb
+D:\Lab_C\lab01\obj\Debug\netcoreapp3.0\lab01.csprojAssemblyReference.cache
+D:\Lab_C\lab01\obj\Debug\netcoreapp3.0\lab01.AssemblyInfoInputs.cache
+D:\Lab_C\lab01\obj\Debug\netcoreapp3.0\lab01.AssemblyInfo.cs
+D:\Lab_C\lab01\obj\Debug\netcoreapp3.0\lab01.dll
+D:\Lab_C\lab01\obj\Debug\netcoreapp3.0\lab01.pdb

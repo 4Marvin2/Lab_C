@@ -4,7 +4,7 @@ using System.Text;
 
 namespace lab02
 {
-    class Rectangle : GeometricFigure, IPrint
+    public class Rectangle : GeometricFigure, IPrint
     {
         public float Width { get; set; }
 

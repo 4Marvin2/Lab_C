@@ -8,3 +8,4 @@ D:\Lab_C\lab02\obj\Debug\netcoreapp3.0\lab02.AssemblyInfoInputs.cache
 D:\Lab_C\lab02\obj\Debug\netcoreapp3.0\lab02.AssemblyInfo.cs
 D:\Lab_C\lab02\obj\Debug\netcoreapp3.0\lab02.dll
 D:\Lab_C\lab02\obj\Debug\netcoreapp3.0\lab02.pdb
+D:\Lab_C\lab02\obj\Debug\netcoreapp3.0\lab02.csprojAssemblyReference.cache

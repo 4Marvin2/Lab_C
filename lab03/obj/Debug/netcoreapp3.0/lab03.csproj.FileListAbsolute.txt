@@ -1,0 +1,15 @@
+D:\Lab_C\lab03\bin\Debug\netcoreapp3.0\lab03.exe
+D:\Lab_C\lab03\bin\Debug\netcoreapp3.0\lab03.deps.json
+D:\Lab_C\lab03\bin\Debug\netcoreapp3.0\lab03.runtimeconfig.json
+D:\Lab_C\lab03\bin\Debug\netcoreapp3.0\lab03.runtimeconfig.dev.json
+D:\Lab_C\lab03\bin\Debug\netcoreapp3.0\lab03.dll
+D:\Lab_C\lab03\bin\Debug\netcoreapp3.0\lab03.pdb
+D:\Lab_C\lab03\obj\Debug\netcoreapp3.0\lab03.csprojAssemblyReference.cache
+D:\Lab_C\lab03\obj\Debug\netcoreapp3.0\lab03.AssemblyInfoInputs.cache
+D:\Lab_C\lab03\obj\Debug\netcoreapp3.0\lab03.AssemblyInfo.cs
+D:\Lab_C\lab03\obj\Debug\netcoreapp3.0\lab03.dll
+D:\Lab_C\lab03\obj\Debug\netcoreapp3.0\lab03.pdb
+D:\Lab_C\lab03\bin\Debug\netcoreapp3.0\lab02.exe
+D:\Lab_C\lab03\bin\Debug\netcoreapp3.0\lab02.dll
+D:\Lab_C\lab03\bin\Debug\netcoreapp3.0\lab02.pdb
+D:\Lab_C\lab03\obj\Debug\netcoreapp3.0\lab03.csproj.CopyComplete

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace lab02
 {
-    class Quadrate : Rectangle
+    public class Quadrate : Rectangle
     {
         public Quadrate(float length) : base(length, length)
         {

@@ -1,0 +1,6 @@
+D:\Всякое\Lab5_2-20191210T221341Z-001\Lab5_2\Lab5_2\obj\Debug\MainWindow.g.cs
+D:\Всякое\Lab5_2-20191210T221341Z-001\Lab5_2\Lab5_2\obj\Debug\App.g.cs
+D:\Всякое\Lab5_2-20191210T221341Z-001\Lab5_2\Lab5_2\obj\Debug\Lab5_2_MarkupCompile.cache
+D:\Всякое\Lab5_2-20191210T221341Z-001\Lab5_2\Lab5_2\obj\Debug\Lab5_2_MarkupCompile.lref
+D:\Всякое\Lab5_2-20191210T221341Z-001\Lab5_2\Lab5_2\obj\Debug\Lab5_2.exe
+D:\Всякое\Lab5_2-20191210T221341Z-001\Lab5_2\Lab5_2\obj\Debug\Lab5_2.pdb

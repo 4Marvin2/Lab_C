@@ -1,0 +1,10 @@
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab5\Lab5_2\ClassLibraryLab5\bin\Debug\ClassLibraryLab5.dll
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab5\Lab5_2\ClassLibraryLab5\bin\Debug\ClassLibraryLab5.pdb
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab5\Lab5_2\ClassLibraryLab5\obj\Debug\ClassLibraryLab5.csprojAssemblyReference.cache
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab5\Lab5_2\ClassLibraryLab5\obj\Debug\ClassLibraryLab5.dll
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab5\Lab5_2\ClassLibraryLab5\obj\Debug\ClassLibraryLab5.pdb
+D:\Lab_C\Lab5_2\ClassLibraryLab5\bin\Debug\ClassLibraryLab5.dll
+D:\Lab_C\Lab5_2\ClassLibraryLab5\bin\Debug\ClassLibraryLab5.pdb
+D:\Lab_C\Lab5_2\ClassLibraryLab5\obj\Debug\ClassLibraryLab5.csprojAssemblyReference.cache
+D:\Lab_C\Lab5_2\ClassLibraryLab5\obj\Debug\ClassLibraryLab5.dll
+D:\Lab_C\Lab5_2\ClassLibraryLab5\obj\Debug\ClassLibraryLab5.pdb

@@ -71,7 +71,8 @@ namespace Lab5_2
             {
                 
                 string wordUpper = word.ToUpper();
-                
+                DamLev L = new DamLev();
+
                 List<string> tList = new List<string>();
                 Stopwatch t = new Stopwatch();
                 t.Start();
@@ -80,7 +81,7 @@ namespace Lab5_2
 
                 foreach (string str in list)
                 {
-                    if (DamLev.Distance(str, wordUpper) <= maxRange)
+                    if (L.Distance(str, wordUpper) <= maxRange)
                     {
                         tList.Add(str);
                     }

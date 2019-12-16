@@ -2,9 +2,9 @@
 
 namespace LLab5
 {
-    public static class DamLev
+    public class DamLev
     {
-        public static int Distance(string str1Param, string str2Param)
+        public int Distance(string str1Param, string str2Param)
         {
             if ((str1Param == null) || (str2Param == null)) return -1;
             int str1Len = str1Param.Length;

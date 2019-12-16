@@ -55,10 +55,7 @@ namespace lab04
                 }
                 stopWatch.Stop();
 
-                TimeSpan ts = stopWatch.Elapsed;
-                string elapsedTime = String.Format("{0:00}:{1:00}:{2:00}.{3:00}", ts.Hours, ts.Minutes, ts.Seconds, ts.Milliseconds / 10);
-
-                textBox1.Text = elapsedTime;
+                this.textBox1.Text = stopWatch.Elapsed.ToString();
 
             }
         }
@@ -69,6 +66,7 @@ namespace lab04
 
             Stopwatch stopWatch = new Stopwatch();
             stopWatch.Start();
+            this.listBox1.Items.Clear();
             foreach (string word in words)
             {
                 if (word.Contains(right_word))
@@ -80,10 +78,7 @@ namespace lab04
             }
             stopWatch.Stop();
 
-            TimeSpan ts = stopWatch.Elapsed;
-            string elapsedTime = String.Format("{0:00}:{1:00}:{2:00}.{3:00}", ts.Hours, ts.Minutes, ts.Seconds, ts.Milliseconds / 10);
-
-            textBox3.Text = elapsedTime;
+            this.textBox3.Text = stopWatch.Elapsed.ToString();
         }
 
         

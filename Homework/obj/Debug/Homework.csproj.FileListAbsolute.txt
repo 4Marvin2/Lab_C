@@ -1,0 +1,12 @@
+D:\Lab_C\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+D:\Lab_C\Homework\obj\Debug\Homework.Form1.resources
+D:\Lab_C\Homework\obj\Debug\Homework.Properties.Resources.resources
+D:\Lab_C\Homework\obj\Debug\Homework.csproj.GenerateResource.cache
+D:\Lab_C\Homework\bin\Debug\Homework.exe.config
+D:\Lab_C\Homework\bin\Debug\Homework.exe
+D:\Lab_C\Homework\bin\Debug\Homework.pdb
+D:\Lab_C\Homework\obj\Debug\Homework.exe
+D:\Lab_C\Homework\obj\Debug\Homework.pdb
+D:\Lab_C\Homework\bin\Debug\ClassLibraryLab5.dll
+D:\Lab_C\Homework\bin\Debug\ClassLibraryLab5.pdb
+D:\Lab_C\Homework\obj\Debug\Homework.csproj.CopyComplete
